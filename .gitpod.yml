@@ -1,0 +1,4 @@
+image: gitpod/workspace-gecko:branch-pr287
+
+tasks:
+  - command: echo $PATH
